@@ -24,12 +24,12 @@ total 6
 
 > cat README.md
 # About Me
-I'm a passionate computer user that always wants to learn new things, especially coding. Creating cutting-edge, intuitive applications for a variety of platforms is my passion. I have experience in databases, web development, and Android development. I am proficient in Python, C/C++, Java, and data science. I like figuring out difficult puzzles and experimenting with new technology. I'm always excited to work with other developers and take on new challenges
+I'm a passionate computer user that always wants to learn new things, especially coding. Creating cutting-edge, intuitive applications for a variety of platforms is my passion. I have experience in databases, web development, and Android development. I am proficient in Python, C/C++, Java, and data science. I like figuring out difficult puzzles and experimenting with new technology. I am always excited to work with other developers and take on new challenges
 
 # What You'll Find Here
 Dive into the repositories, and you'll unearth a treasure trove of my endeavors. Whether it's a sleek web app, a quirky script, or an ambitious project that defies the ordinary, each creation bears the imprint of my passion and a dash of innovation..
 
-# 🌐 Let's Connect
+# 🌐 Lets Connect
 I believe in the power of collaboration and the synergy of ideas.
 
 > cd Projects
