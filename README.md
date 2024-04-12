@@ -14,8 +14,8 @@
               \\___/  
         
 
-"Saalim398@github">$ echo "Hello, fellow coder! 👋 Welcome to Saalim's Github Nest"
-Hello, fellow coder! 👋 Welcome to Saalims Github Nest
+"Saalim398@github">$ echo "Hello, fellow coder! 👋 Welcome to Saalim's Github"
+Hello, fellow coder! 👋 Welcome to Saalims Github 
 
 "Saalim398@github">$ ls -l
 total 4
