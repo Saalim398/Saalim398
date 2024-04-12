@@ -1,5 +1,3 @@
-
-
 ```bash
 ██  ██  ██   ████████    ██            ████████    ██████████   ██████████   ████████
 ██  ██  ██   ████        ██            ██          ██      ██   ██  ██  ██   ████
@@ -16,13 +14,13 @@
               \\___/  
         
 
->echo "Hello, fellow coder! 👋 Welcome to Saalim's Github Nest"
+"Saalim398@github">$ echo "Hello, fellow coder! 👋 Welcome to Saalim's Github Nest"
 Hello, fellow coder! 👋 Welcome to Saalims Github Nest
 
->ls -l
+"Saalim398@github">$ ls -l
 total 4
 
-> cat README.md
+"Saalim398@github">$ cat README.md
 
 # About Me
 I am a passionate computer user that always wants to learn new things, especially coding.
@@ -41,27 +39,27 @@ each creation bears the imprint of my passion and a dash of innovation..
 I believe in the power of collaboration and the synergy of ideas.
 
 
->ls
+"Saalim398@github">$ ls
 HelloWorld  ProJects  Skills  Techstack
 
->cd Projects
+"Saalim398@github">$ cd Projects
 Login-Registration-System    BMI-Calculator    Face-Detection-System    Notepad-In-Python    TodoAPP
     
->cd HelloWorld
+"Saalim398@github">$ cd HelloWorld
 
->cat hello_world.py
+"Saalim398@github">$ cat hello_world.py
 print("Hello, World!")
 
->python hello_world.py
+"Saalim398@github">$ python hello_world.py
 Hello, World!
 
 
->cd..
+"Saalim398@github">$ cd..
 
->cd Skills
+"Saalim398@github">$ cd Skills
 c  c++  java  python  Sql  html  css  javascript  php  Linux  Machine_Learning
 
->cd Techstack
+"Saalim398@github">$ cd Techstack
 Android_Development  Web_Development  Database_management/MySql
 numpy  pandas  tkinter  matplotlib  scikit  Java_Swing  OpenCV  XML  JQuery
 
