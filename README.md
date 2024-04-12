@@ -39,12 +39,13 @@ each creation bears the imprint of my passion and a dash of innovation..
 # 🌐 Lets Connect
 I believe in the power of collaboration and the synergy of ideas.
 
-> cd Projects
+
+>ls
+HelloWorld  ProJects  Skills  Techstack
+
+>cd Projects
 Login-Registration-System    BMI-Calculator    Face-Detection-System    Notepad-In-Python    TodoAPP
     
-> ls
-HelloWorld
-
 > cd HelloWorld
 
 > cat hello_world.py
@@ -53,10 +54,14 @@ print("Hello, World!")
 > python hello_world.py
 Hello, World!
 
+
 >cd..
 
-> npm install
-Installing dependencies...
+> cd skills
+c  c++  java  python  Sql  html  css  javascript  php  Linux  Machine_Learning
 
-> npm start
-Starting 
+>cd Techstack
+Android_Development  Web_Development  Database_management/MySql
+numpy  pandas  tkinter  matplotlib  scikit  Java_Swing  OpenCV  XML  JQuery
+
+><span style="color: blue;">This text will be blue.</span>
