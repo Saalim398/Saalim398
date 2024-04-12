@@ -64,4 +64,4 @@ c  c++  java  python  Sql  html  css  javascript  php  Linux  Machine_Learning
 Android_Development  Web_Development  Database_management/MySql
 numpy  pandas  tkinter  matplotlib  scikit  Java_Swing  OpenCV  XML  JQuery
 
-><span style="color: blue;">This text will be blue.</span>
+<span style="color: blue;">This text will be blue.</span>
