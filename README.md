@@ -17,7 +17,7 @@
         
 
 >echo "Hello, fellow coder! 👋 Welcome to Saalim's Github Nest"
-Hello, fellow coder! 👋 Welcome to Saalim's Github Nest
+Hello, fellow coder! 👋 Welcome to Saalims Github Nest
 
 >ls -l
 total 4
@@ -25,7 +25,7 @@ total 4
 > cat README.md
 
 # About Me
-I'm a passionate computer user that always wants to learn new things, especially coding.
+I am a passionate computer user that always wants to learn new things, especially coding.
 Creating cutting-edge, intuitive applications for a variety of platforms is my passion.
 I have experience in databases, web development, and Android development.
 am proficient in Python, C/C++, Java, and data science.
