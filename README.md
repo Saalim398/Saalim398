@@ -33,8 +33,8 @@ I like figuring out difficult puzzles and experimenting with new technology.
 I am always excited to work with other developers and take on new challenges
 
 # What You'll Find Here
-Dive into the repositories, and you'll unearth a treasure trove of my endeavors.
-Whether it's a sleek web app, a quirky script, or an ambitious project that defies the ordinary,
+Dive into the repositories, and you wll unearth a treasure trove of my endeavors.
+Whether it is a sleek web app, a quirky script, or an ambitious project that defies the ordinary,
 each creation bears the imprint of my passion and a dash of innovation..
 
 # 🌐 Lets Connect
