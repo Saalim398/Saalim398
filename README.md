@@ -16,13 +16,14 @@
               \\___/  
         
 
-> echo "Hello, fellow coder! 👋 Welcome to Saalim's Github Nest"
+>echo "Hello, fellow coder! 👋 Welcome to Saalim's Github Nest"
 Hello, fellow coder! 👋 Welcome to Saalim's Github Nest
 
-> ls -l
-total 6
+>ls -l
+total 4
 
 > cat README.md
+
 # About Me
 I'm a passionate computer user that always wants to learn new things, especially coding.
 Creating cutting-edge, intuitive applications for a variety of platforms is my passion.
@@ -46,22 +47,21 @@ HelloWorld  ProJects  Skills  Techstack
 >cd Projects
 Login-Registration-System    BMI-Calculator    Face-Detection-System    Notepad-In-Python    TodoAPP
     
-> cd HelloWorld
+>cd HelloWorld
 
-> cat hello_world.py
+>cat hello_world.py
 print("Hello, World!")
 
-> python hello_world.py
+>python hello_world.py
 Hello, World!
 
 
 >cd..
 
-> cd skills
+>cd Skills
 c  c++  java  python  Sql  html  css  javascript  php  Linux  Machine_Learning
 
 >cd Techstack
 Android_Development  Web_Development  Database_management/MySql
 numpy  pandas  tkinter  matplotlib  scikit  Java_Swing  OpenCV  XML  JQuery
 
-<span style="color: blue;">This text will be blue.</span>
