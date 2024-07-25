@@ -14,7 +14,7 @@
               \\___/  
         
 
-"Saalim398@github">$ echo "whoami"
+"Saalim398@github">$ whoami
 "Saalim398@github">$ jake the programmer    
 "Saalim398@github">$ echo "Hello, fellow coder! 👋 Welcome to Saalim's Github"
 Hello, fellow coder! 👋 Welcome to Saalims Github 
