@@ -1,1 +1,1 @@
-![Alt Text](https://raw.githubusercontent.com/Saalim398/Saalim398/main/ezgif.com-animated-gif-maker)
+<img src="https://github.com/Saalim398/Saalim398/blob/main/ezgif.com-animated-gif-maker.gif">
